@@ -1,6 +1,6 @@
 import React from 'react'
 
-const collection = () => {
+const Collection = () => {
   return (
     <div>
       

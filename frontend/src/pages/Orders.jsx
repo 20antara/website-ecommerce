@@ -1,6 +1,6 @@
 import React from 'react'
 
-const orders = () => {
+const Orders = () => {
   return (
     <div>
       

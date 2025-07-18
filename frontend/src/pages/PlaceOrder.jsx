@@ -1,6 +1,6 @@
 import React from 'react'
 
-const placeorder = () => {
+const PlaceOrder = () => {
   return (
     <div>
       
